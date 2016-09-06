@@ -9,7 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+- (IBAction)pageMethodAction:(UIButton *)sender;
 
 
+- (IBAction)customLazyMethodAction:(UIButton *)sender;
 @end
 
