@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AFC4C33D35E12AA6DF077FE41F4361B1674A9E19",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C429C115C8FE98F065E17BDB74446587D4699EEF" : 0,
+    "AFC4C33D35E12AA6DF077FE41F4361B1674A9E19" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B8EC1C4B-8683-4E58-90BB-C68F85391D0E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C429C115C8FE98F065E17BDB74446587D4699EEF" : "",
+    "AFC4C33D35E12AA6DF077FE41F4361B1674A9E19" : "UITabDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UITabDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UITabDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiang6777\/TabSwitchDemo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AFC4C33D35E12AA6DF077FE41F4361B1674A9E19"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jiang6777\/TabSwitchDemo",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C429C115C8FE98F065E17BDB74446587D4699EEF"
+    }
+  ]
+}
