@@ -12,6 +12,7 @@
 		9F66D50F1D7D703C008777B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F66D50D1D7D703C008777B5 /* Main.storyboard */; };
 		9F66D5111D7D703C008777B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F66D5101D7D703C008777B5 /* Assets.xcassets */; };
 		9F66D5141D7D703C008777B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F66D5121D7D703C008777B5 /* LaunchScreen.storyboard */; };
+		9F72C9181D7FAB2900F1047B /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9F72C9171D7FAB2900F1047B /* 1.gif */; };
 		9F7386241D7E641000DC51B3 /* UIView+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F7386211D7E641000DC51B3 /* UIView+Additions.m */; };
 		9F7386251D7E641000DC51B3 /* UIViewAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F7386231D7E641000DC51B3 /* UIViewAdditions.m */; };
 		9F7386321D7E645A00DC51B3 /* BaseTabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F7386281D7E645A00DC51B3 /* BaseTabViewController.m */; };
@@ -33,6 +34,7 @@
 		9F66D5131D7D703C008777B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F66D5151D7D703C008777B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9F66D5261D7D7272008777B5 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		9F72C9171D7FAB2900F1047B /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
 		9F7386201D7E641000DC51B3 /* UIView+Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Additions.h"; sourceTree = "<group>"; };
 		9F7386211D7E641000DC51B3 /* UIView+Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Additions.m"; sourceTree = "<group>"; };
 		9F7386221D7E641000DC51B3 /* UIViewAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIViewAdditions.h; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 		9F7386261D7E645A00DC51B3 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				9F72C9171D7FAB2900F1047B /* 1.gif */,
 				9F7386271D7E645A00DC51B3 /* BaseTabViewController.h */,
 				9F7386281D7E645A00DC51B3 /* BaseTabViewController.m */,
 				9F7386291D7E645A00DC51B3 /* CustomTabViewController.h */,
@@ -213,6 +216,7 @@
 			files = (
 				9F66D5141D7D703C008777B5 /* LaunchScreen.storyboard in Resources */,
 				9F66D5111D7D703C008777B5 /* Assets.xcassets in Resources */,
+				9F72C9181D7FAB2900F1047B /* 1.gif in Resources */,
 				9F66D50F1D7D703C008777B5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
